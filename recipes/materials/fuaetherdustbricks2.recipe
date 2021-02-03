@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "retexaetherdust", "count" : 10 }
+    { "item" : "retexaetherdust", "count" : 20 }
   ],
-  "output" : { "item" : "fuaetherdustbricks2", "count" : 20 },
+  "output" : { "item" : "fuaetherdustbricks2", "count" : 10 },
   "groups" : [ "craftingfurniture", "materials", "all" ]
 }
